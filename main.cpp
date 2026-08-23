@@ -23,3 +23,9 @@ int main() {
     cin >> a >> b;
 
     if (a > b)
+        cout << "Largest number = " << a;
+    else
+        cout << "Largest number = " << b;
+
+    return 0;
+}
