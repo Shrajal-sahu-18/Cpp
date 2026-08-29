@@ -81,3 +81,5 @@ int main() {
 
     if (a > b)
         cout << a << " is largest";
+    else
+        cout << b << " is largest";
