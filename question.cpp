@@ -83,3 +83,5 @@ int main() {
         cout << a << " is largest";
     else
         cout << b << " is largest";
+    return 0;
+}
