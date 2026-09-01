@@ -127,3 +127,5 @@ int main() {
         cout << "Negative";
     else
         cout << "Zero";
+    return 0;
+}
