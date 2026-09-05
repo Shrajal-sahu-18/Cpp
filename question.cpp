@@ -191,3 +191,5 @@ int main() {
         fact *= i;
     }
     cout << "Factorial = " << fact;
+    return 0;
+}
