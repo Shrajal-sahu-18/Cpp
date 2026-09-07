@@ -206,3 +206,6 @@ int main() {
     temp = a;
     a = b;
     b = temp;
+
+
+#Print 1 to 10
