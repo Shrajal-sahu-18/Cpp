@@ -218,3 +218,5 @@ int main() {
     }
     return 0;
 }
+
+//print 1 to 10
