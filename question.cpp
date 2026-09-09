@@ -246,3 +246,5 @@ int main() {
     }
 
     cout << "Reverse = " << rev;
+    return 0;
+}
