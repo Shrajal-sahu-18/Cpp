@@ -229,3 +229,14 @@ int main() {
     }
     return 0;
 }
+
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n, rev = 0;
+    cin >> n;
+
+    
