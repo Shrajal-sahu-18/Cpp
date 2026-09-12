@@ -25,3 +25,13 @@ int main(){
 
     return 0;
 }
+
+#include <iostream>
+using namespace std;
+int main(){
+    float pi = 3.14;
+    cout<<(char)('A'+1)<<endl;
+    cout<<(int)(pi);
+
+    return 0;
+}
