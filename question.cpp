@@ -50,6 +50,14 @@
 //     cin>>pencilcost;
 //     cout<<"Enter Pen Cost:";
 //     cin>>pencost;
+//     cout<<"Enter Eraser Cost:";
+//     cin>>erasercost;
+//     int totalcost = (pencost + pencilcost + erasercost);
+//     cout<<"Total cost:"<<totalcost<<endl;
+//     cout<<"Total cost with gst:"<<(totalcost + (0.18 * totalcost));
+
+//     return 0;
+// }
 
 // #include <iostream>
 // using namespace std;
