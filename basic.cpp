@@ -42,3 +42,19 @@ int main(){
     cout<<((bool)3+ 2)<<endl;
     return 0;
 }
+
+//Arithematic Operator
+#include <iostream>
+using namespace std;
+int main(){
+    //Arithematic Operator
+    int a = 5;
+    int b = 3;
+    cout<<"+"<<a+b<<endl;
+    cout<<"-"<<a-b<<endl;
+    cout<<"*"<<a*b<<endl;
+    cout<<"/"<<a/b<<endl;
+    cout<<"%"<<a%b<<endl;
+    return 0;
+
+}
