@@ -41,6 +41,16 @@
 //     return 0;
 // }
 
+//Question - 5 Total cost of three item
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     float pencost,pencilcost,erasercost;
+//     cout<<"Enter Pencil Cost:";
+//     cin>>pencilcost;
+//     cout<<"Enter Pen Cost:";
+//     cin>>pencost;
+
 // #include <iostream>
 // using namespace std;
 
