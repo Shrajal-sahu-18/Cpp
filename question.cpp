@@ -22,6 +22,13 @@
 //     cout<<"Enter math marks:";
 //     cin>>math;
 //     cout<<"Enter sci marks:";
+//     cin>>sci;
+//     cout<<"Enter eng marks:";
+//     cin>>eng;
+//     int avg = (math + sci + eng) / 3;
+//     cout<<  "avg of marks is :"<<avg<<endl;
+//     return 0;
+// }
 
 
 // #include <iostream>
