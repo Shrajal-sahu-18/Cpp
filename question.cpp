@@ -74,6 +74,17 @@
 //     return 0;
 // }
 
+
+//Question - 7 area of circle
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int radius;
+//     cout<<"Enter radius of circle:";
+//     cin>>radius;
+//     cout<<"Area of circle:"<<(3.14 * radius * radius)<<endl;
+//     return 0;
+// }
 // #include <iostream>
 // using namespace std;
 
