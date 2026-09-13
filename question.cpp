@@ -1,250 +1,260 @@
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main() {
-    int a, b;
-    cout << "Enter two numbers: ";
-    cin >> a >> b;
+// int main() {
+//     int a, b;
+//     cout << "Enter two numbers: ";
+//     cin >> a >> b;
 
-    int sum = a + b;
-    cout << "Sum = " << sum;
+//     int sum = a + b;
+//     cout << "Sum = " << sum;
 
-    return 0;
-}
+//     return 0;
+// }
 
-
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    int a, b;
-    cout << "Enter two numbers: ";
-    cin >> a >> b;
-
-    if (a > b)
-        cout << "Largest number = " << a;
-    else
-        cout << "Largest number = " << b;
-
-    return 0;
-}
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    int n;
-    cout << "Enter a number: ";
-    cin >> n;
-    if (n % 2 == 0)
-        cout << "Even";
-    else
-        cout << "Odd";
-    return 0;
-}
-
-#include<iostream>
-using namespace std;
-int main(){
-    cout<<"****\n***\n**\n*\n";
-    return 0;
-}
-
-#include<iostream>
-using namespace std;
-int main(){
-    cout<<"****\n";
-    cout<<"***\n";
-    cout<<"**\n";
-    cout<<"*\n";
-    return 0;
-}
-
-#include<iostream>
-using namespace std;
-int main(){
-    int a,b;
-    cin >> a >> b;
-    cout<<a + b;
-    return 0;
-
-}
+//Question - 3  avg marks
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int math;
+//     int sci;
+//     int eng;
+//     cout<<"Enter math marks:";
+//     cin>>math;
+//     cout<<"Enter sci marks:";
 
 
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main() {
-    int a, b;
-    cin >> a >> b;
+// int main() {
+//     int a, b;
+//     cout << "Enter two numbers: ";
+//     cin >> a >> b;
 
-    if (a > b)
-        cout << a << " is largest";
-    else
-        cout << b << " is largest";
-    return 0;
-}
+//     if (a > b)
+//         cout << "Largest number = " << a;
+//     else
+//         cout << "Largest number = " << b;
+
+//     return 0;
+// }
+
+// #include <iostream>
+// using namespace std;
+
+// int main() {
+//     int n;
+//     cout << "Enter a number: ";
+//     cin >> n;
+//     if (n % 2 == 0)
+//         cout << "Even";
+//     else
+//         cout << "Odd";
+//     return 0;
+// }
+
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     cout<<"****\n***\n**\n*\n";
+//     return 0;
+// }
+
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     cout<<"****\n";
+//     cout<<"***\n";
+//     cout<<"**\n";
+//     cout<<"*\n";
+//     return 0;
+// }
+
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int a,b;
+//     cin >> a >> b;
+//     cout<<a + b;
+//     return 0;
+
+// }
 
 
+// #include <iostream>
+// using namespace std;
 
-#include <iostream>
-using namespace std;
-int main() {
-    for (int i = 1; i <= 100; i++) {
-        if (i % 2 == 0)
-            cout << i << " ";
-    }
-   return 0;
-}
+// int main() {
+//     int a, b;
+//     cin >> a >> b;
+
+//     if (a > b)
+//         cout << a << " is largest";
+//     else
+//         cout << b << " is largest";
+//     return 0;
+// }
 
 
 
-#include <iostream>
-using namespace std;
-int main() {
-    int n;
-    long long fact = 1;
-    cin >> n;
-
-    for (int i = 1; i <= n; i++) {
-        fact *= i;
-    }
-    cout << "Factorial = " << fact;
-
-    return 0;
-}
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    int n;
-    cin >> n;
-    if (n > 0)
-        cout << "Positive";
-    else if (n < 0)
-        cout << "Negative";
-    else
-        cout << "Zero";
-    return 0;
-}
+// #include <iostream>
+// using namespace std;
+// int main() {
+//     for (int i = 1; i <= 100; i++) {
+//         if (i % 2 == 0)
+//             cout << i << " ";
+//     }
+//    return 0;
+// }
 
 
 
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
+// int main() {
+//     int n;
+//     long long fact = 1;
+//     cin >> n;
 
-int main() {
-    int a, b, temp;
-    cin >> a >> b;
+//     for (int i = 1; i <= n; i++) {
+//         fact *= i;
+//     }
+//     cout << "Factorial = " << fact;
 
-    temp = a;
-    a = b;
-    b = temp;
-    cout << "a = " << a << endl;
-    cout << "b = " << b;
+//     return 0;
+// }
 
-    return 0;
-}
+// #include <iostream>
+// using namespace std;
 
-
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    int n, sum = 0;
-    cin >> n;
-    for (int i = 1; i <= n; i++) {
-        sum += i;
-    }
-    cout << "Sum = " << sum;
-
-    return 0;
-}
+// int main() {
+//     int n;
+//     cin >> n;
+//     if (n > 0)
+//         cout << "Positive";
+//     else if (n < 0)
+//         cout << "Negative";
+//     else
+//         cout << "Zero";
+//     return 0;
+// }
 
 
 
-#include <iostream>
-using namespace std;
-int main() {
-    int n;
-    cin >> n;
-    for (int i = 1; i <= 10; i++) {
-        cout << n << " x " << i << " = " << n * i << endl;
-    }
-    return 0;
-}
+// #include <iostream>
+// using namespace std;
+
+// int main() {
+//     int a, b, temp;
+//     cin >> a >> b;
+
+//     temp = a;
+//     a = b;
+//     b = temp;
+//     cout << "a = " << a << endl;
+//     cout << "b = " << b;
+
+//     return 0;
+// }
 
 
 
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main() {
-    int n;
-    long long fact = 1;
-    cin >> n;
+// int main() {
+//     int n, sum = 0;
+//     cin >> n;
+//     for (int i = 1; i <= n; i++) {
+//         sum += i;
+//     }
+//     cout << "Sum = " << sum;
 
-    for (int i = 1; i <= n; i++) {
-        fact *= i;
-    }
-    cout << "Factorial = " << fact;
-    return 0;
-}
-
-
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    int a, b, temp;
-    cin >> a >> b;
-
-    temp = a;
-    a = b;
-    b = temp;
-
-
-//Print 1 to 10
-#include <iostream>
-using namespace std;
-
-int main() {
-    for (int i = 1; i <= 10; i++) {
-        cout << i << " ";
-    }
-    return 0;
-}
-
-//print 1 to 10
-#include <iostream>
-using namespace std;
-
-int main() {
-    for (int i = 1; i <= 10; i++) {
-        cout << i << " ";
-    }
-    return 0;
-}
+//     return 0;
+// }
 
 
 
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
+// int main() {
+//     int n;
+//     cin >> n;
+//     for (int i = 1; i <= 10; i++) {
+//         cout << n << " x " << i << " = " << n * i << endl;
+//     }
+//     return 0;
+// }
 
-int main() {
-    int n, rev = 0;
-    cin >> n;
-    while (n > 0) {
-        int digit = n % 10;
-        rev = rev * 10 + digit;
-        n = n / 10;
-    }
-    }
 
-    cout << "Reverse = " << rev;
-    return 0;
-}
+
+// #include <iostream>
+// using namespace std;
+
+// int main() {
+//     int n;
+//     long long fact = 1;
+//     cin >> n;
+
+//     for (int i = 1; i <= n; i++) {
+//         fact *= i;
+//     }
+//     cout << "Factorial = " << fact;
+//     return 0;
+// }
+
+
+
+// #include <iostream>
+// using namespace std;
+
+// int main() {
+//     int a, b, temp;
+//     cin >> a >> b;
+
+//     temp = a;
+//     a = b;
+//     b = temp;
+
+
+// //Print 1 to 10
+// #include <iostream>
+// using namespace std;
+
+// int main() {
+//     for (int i = 1; i <= 10; i++) {
+//         cout << i << " ";
+//     }
+//     return 0;
+// }
+
+// //print 1 to 10
+// #include <iostream>
+// using namespace std;
+
+// int main() {
+//     for (int i = 1; i <= 10; i++) {
+//         cout << i << " ";
+//     }
+//     return 0;
+// }
+
+
+
+// #include <iostream>
+// using namespace std;
+
+// int main() {
+//     int n, rev = 0;
+//     cin >> n;
+//     while (n > 0) {
+//         int digit = n % 10;
+//         rev = rev * 10 + digit;
+//         n = n / 10;
+//     }
+//     }
+
+//     cout << "Reverse = " << rev;
+//     return 0;
+// }
