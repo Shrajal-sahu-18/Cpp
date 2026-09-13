@@ -30,6 +30,16 @@
 //     return 0;
 // }
 
+//Question - 4 Area of Square
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int side;
+//     cout<<"Enter side of square:";
+//     cin>> side;
+//     cout<<"Area of square is :"<<side*side<<endl;
+//     return 0;
+// }
 
 // #include <iostream>
 // using namespace std;
