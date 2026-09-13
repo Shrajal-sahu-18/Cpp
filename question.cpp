@@ -59,6 +59,21 @@
 //     return 0;
 // }
 
+//Question - 6 Simple interest calculator
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int p,r,t;
+//     cout<<"Enter Principal:";
+//     cin>>p;
+//     cout<<"Enter rate:";
+//     cin>>r;
+//     cout<<"Enter time:";
+//     cin>>t;
+//     cout<<"Simple interest = "<<(p*r*t)/100 << endl;
+//     return 0;
+// }
+
 // #include <iostream>
 // using namespace std;
 
