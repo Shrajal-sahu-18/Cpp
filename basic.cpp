@@ -58,3 +58,16 @@ int main(){
     return 0;
 
 }
+
+//Unary Operator
+#include <iostream>
+using namespace std;
+int main(){
+    int a = 3;
+    a++;
+    cout<<"a = " << a << endl;
+    a--;
+    cout <<"a =    " << a << endl;
+
+    return 0;
+}
