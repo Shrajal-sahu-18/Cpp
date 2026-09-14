@@ -125,3 +125,13 @@ int main(){
 
     return 0;
 }
+
+
+//Logical Operator
+#include <iostream>
+using namespace std;
+int main(){
+    // cout << ((3 < 5) && ( 10 > 5)); // 1
+    cout << ((3 < 5) && ( 10 == 5)); // 0 
+    return 0;
+}
