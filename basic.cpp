@@ -88,3 +88,21 @@ int main(){
 
     return 0;
 }
+
+//Assignment Operator
+#include <iostream>
+using namespace std;
+int main(){
+    int a  = 5;
+    a += 5;
+    cout<<a<<endl;
+    a -=5;
+    cout<<a<<endl;
+    a *= 5;
+    cout<<a<<endl;
+    a /=5;
+    cout<<a<<endl;
+
+    return 0;
+
+}
