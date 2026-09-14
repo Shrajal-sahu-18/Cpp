@@ -135,3 +135,11 @@ int main(){
     cout << ((3 < 5) && ( 10 == 5)); // 0 
     return 0;
 }
+
+#include <iostream>
+using namespace std;
+int main(){
+    cout<<((2<4) || (2>5))<<endl; // 1
+    cout<<((2 == 3) || (2 == 4))<<endl; // 0
+    return 0;
+}
