@@ -143,3 +143,10 @@ int main(){
     cout<<((2 == 3) || (2 == 4))<<endl; // 0
     return 0;
 }
+
+#include <iostream>
+using namespace std;
+int main(){
+    cout << ( ! 3 == 5) << endl ;
+    return 0;
+}
