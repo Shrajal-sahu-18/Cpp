@@ -298,3 +298,54 @@
    
 
 // }
+
+// Calculator
+// #include <iostream>
+// using namespace std;
+// int main (){
+//     int a,b;
+//     char op;
+//     cout << "Enter a:";
+//     cin >> a;
+//     cout << "Enter b:";
+//     cin >> b;
+//     cout << "Enter operator (+,-,*,/):";
+//     cin >> op ;
+
+//     switch (op) {
+//     case '+':
+//         cout << "Addition of a & b:"<< a+b <<endl;
+//         break;
+//     case '-':
+//         cout << "Subsatraction of a & b :"<< a-b << endl;
+//         break;
+//     case '*':
+//         cout << "Multiplication of a & b:"<<a*b << endl;
+//         break ;
+//     case '/':
+//     // if (b == 0){
+//     //     cout << "Dividing by zero is not allowed";
+//     //     break;
+//     // }else{
+//     //     cout << "Division of a & b :"<< a/b<<endl;
+//     //     break;
+//     // }
+//     switch(b){
+//         case 0 :
+//             cout << "Dividing by zero is not allowed"<<endl;
+//             break;
+
+//         default :
+//             cout << "Division of zero :"<< a / b;
+//             break;
+//     }
+//         break;
+//     default :
+//         cout << "Invalid operator.";
+//         break;
+        
+//     }
+    
+
+//     return 0;
+// }
