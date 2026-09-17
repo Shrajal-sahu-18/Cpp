@@ -220,3 +220,31 @@
 //     }
 //     return 0;
 // }
+
+
+// Question -10 Armstrong number
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n;
+//     cout<< "Enter 3 - digit number:";
+//     cin>>n;
+//     int num = n;
+    
+//     int digit1 = num % 10;
+//     num /= 10;
+//     int digit2 = num % 10;
+//     num /= 10;
+//     int digit3 = num % 10;
+//     num /= 10;
+
+//     int cubesum = (digit1 * digit1 * digit1) + (digit2 * digit2 * digit2) + (digit3 * digit3 * digit3);
+
+//     if (cubesum == n){
+//         cout << n <<" is armstrong number.";
+//     }else {
+//         cout << "not a armstrong number";
+//     }
+
+//     return 0;
+// }
