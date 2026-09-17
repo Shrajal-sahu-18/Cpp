@@ -201,121 +201,22 @@
 //     return 0;
 // }
 
-
-
+// Question - 9 Leap year yes or not
 // #include <iostream>
 // using namespace std;
+// int main(){
+//     int year;
+//     cout << "Enter year:";
+//     cin >> year;
 
-// int main() {
-//     int a, b, temp;
-//     cin >> a >> b;
-
-//     temp = a;
-//     a = b;
-//     b = temp;
-//     cout << "a = " << a << endl;
-//     cout << "b = " << b;
-
-//     return 0;
-// }
-
-
-
-// #include <iostream>
-// using namespace std;
-
-// int main() {
-//     int n, sum = 0;
-//     cin >> n;
-//     for (int i = 1; i <= n; i++) {
-//         sum += i;
+//     if (year % 4 == 0){
+//         cout <<" Year is leap year.\n";
+//     }else if (year % 100 == 0){
+//         cout << "Is not a leap year.\n";
+//     }else if (year % 400 == 0){
+//         cout << "Leap year.\n";
+//     }else {
+//         cout << "Is not a leep year.\n";
 //     }
-//     cout << "Sum = " << sum;
-
-//     return 0;
-// }
-
-
-
-// #include <iostream>
-// using namespace std;
-// int main() {
-//     int n;
-//     cin >> n;
-//     for (int i = 1; i <= 10; i++) {
-//         cout << n << " x " << i << " = " << n * i << endl;
-//     }
-//     return 0;
-// }
-
-
-
-// #include <iostream>
-// using namespace std;
-
-// int main() {
-//     int n;
-//     long long fact = 1;
-//     cin >> n;
-
-//     for (int i = 1; i <= n; i++) {
-//         fact *= i;
-//     }
-//     cout << "Factorial = " << fact;
-//     return 0;
-// }
-
-
-
-// #include <iostream>
-// using namespace std;
-
-// int main() {
-//     int a, b, temp;
-//     cin >> a >> b;
-
-//     temp = a;
-//     a = b;
-//     b = temp;
-
-
-// //Print 1 to 10
-// #include <iostream>
-// using namespace std;
-
-// int main() {
-//     for (int i = 1; i <= 10; i++) {
-//         cout << i << " ";
-//     }
-//     return 0;
-// }
-
-// //print 1 to 10
-// #include <iostream>
-// using namespace std;
-
-// int main() {
-//     for (int i = 1; i <= 10; i++) {
-//         cout << i << " ";
-//     }
-//     return 0;
-// }
-
-
-
-// #include <iostream>
-// using namespace std;
-
-// int main() {
-//     int n, rev = 0;
-//     cin >> n;
-//     while (n > 0) {
-//         int digit = n % 10;
-//         rev = rev * 10 + digit;
-//         n = n / 10;
-//     }
-//     }
-
-//     cout << "Reverse = " << rev;
 //     return 0;
 // }
