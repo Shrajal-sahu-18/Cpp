@@ -271,3 +271,30 @@
 //     cout << "Tax  = "<< (tax * 100000) << endl;
 //     return 0;
 // }
+
+// largest og three number
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int a,b,c;
+//     cout <<"Enter a:";
+//     cin >>a;
+//     cout <<"Enter b:";
+//     cin >> b;
+//     cout << "Enter c:";
+//     cin >> c;
+
+//     if (a >= b && a >=c){
+//         cout << "largest is a = "<<a;
+//     }else if (b >= c){
+//         cout << "Largest is b = "<< b;
+
+//     }else{
+//         cout <<  "Largest is c ="<<c;
+//     }
+
+
+//     return 0;
+   
+
+// }
