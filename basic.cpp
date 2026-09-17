@@ -186,3 +186,26 @@
 //     }
 //     return 0;
 // }
+
+
+// Ternary Operator
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     // bool isAdult;// 1, 0
+//     // int age;
+//     // cout << "Enter your age:";
+//     // cin >> age;
+
+//     // isAdult = age >= 18 ? true : false;
+//     // cout << isAdult;
+//     //largest using ternery operator
+//     int a = 10 ;
+//     int b = 15;
+    
+//     int largest;
+    
+//     largest  = a >= b ? a: b;
+//     cout << largest;
+//     return 0;
+// }
