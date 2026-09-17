@@ -248,3 +248,26 @@
 
 //     return 0;
 // }
+
+//Income tax calculator
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int income ;
+//     float tax;
+//     cout << "Enter your income(In lakhs):";
+//     cin >> income;
+
+//     if (income  <= 5){
+//         tax = 0; 
+//     }else if(income <= 10){
+//         // 20%
+//         tax = 0.2 * income;
+//     }
+//     else {
+//         // 30%
+//         tax = 0.3 * income;    
+//     }
+//     cout << "Tax  = "<< (tax * 100000) << endl;
+//     return 0;
+// }
