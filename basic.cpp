@@ -263,3 +263,13 @@
     
 //     return 0;
 // }
+
+
+//print apna collage 5 times
+#include <iostream>
+using namespace std ;
+int main(){
+    for(int i = 1;i <= 5; i++){
+        cout <<"Apna collage"<< endl;
+    }
+}
