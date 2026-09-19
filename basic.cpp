@@ -304,3 +304,19 @@
 //     cout << sum;
 //     return 0;
 // }
+
+// While Loop
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int count = 1;
+//     while(count < 3){
+//         cout << count << " ";
+//         count ++;
+//     }
+//     return 0;
+
+//     cout << endl;
+
+//     return 0;
+// }
