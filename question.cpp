@@ -384,3 +384,18 @@
 //     }
 //     cout << "Sum of odd digit:"<< sum;
 // }
+
+// reverse a number
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n = 10829;
+//     int res = 0;
+//     while(n > 0){
+//         int lastdigit = n % 10;
+//         res = res * 10 + lastdigit;
+//         n /= 10;
+//     }
+//     cout << res;
+//     return 0;
+// }
