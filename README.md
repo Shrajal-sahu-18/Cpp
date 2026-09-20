@@ -1,8 +1,11 @@
-This Repo Contains c++ program from basic to advanced
+# Cpp
+
 ## Tools Used 
 - Vs Code
 - Gcc Complier
-## Program include 
-- add two number
+## Program Include
+- Basic program
+- Pattern
+
 ## Teacher
 Shradha Khapra Ma'am 
