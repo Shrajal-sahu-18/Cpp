@@ -349,3 +349,21 @@
 
 //     return 0;
 // }
+
+// Sum of all digit
+
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n = 10829;
+//     int sum = 0;
+//     while(n > 0){
+//         int lastdigit = n % 10;
+//         cout << lastdigit << " ";
+//         sum += lastdigit;
+//         n = n / 10;
+//     }
+//     cout << endl;
+//     cout << "Sum of dgit :"<< sum << endl;
+//     return 0;
+// }
