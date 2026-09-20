@@ -359,3 +359,18 @@
 //     cout << endl;
 //     return 0;;
 // }
+
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int  val = 1;
+//     do{
+//         cout << "Apna collage in do-while loop"<< endl;
+
+//     }while(val > 5);
+
+//     while(val > 5){
+//         cout << "apna collage in while loop";
+//     }
+//     return 0;
+// }
