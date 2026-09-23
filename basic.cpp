@@ -458,3 +458,5 @@ int main(){
     }
     cout << i;
 }
+
+//Pattern 
