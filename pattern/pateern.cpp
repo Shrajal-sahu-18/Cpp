@@ -28,4 +28,6 @@
 // }
 
 //inverted star pattern
+//Half pyramid pattern
+
 
