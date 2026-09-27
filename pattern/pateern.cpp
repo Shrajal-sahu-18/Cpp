@@ -26,3 +26,6 @@
 //     }
 //     return 0;
 // }
+
+//inverted star pattern
+
