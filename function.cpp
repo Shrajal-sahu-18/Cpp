@@ -87,3 +87,5 @@ int main(){
     cout << iseven(7)<<endl;
     return 0;
 }
+
+//Function
