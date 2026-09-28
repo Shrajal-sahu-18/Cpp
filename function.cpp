@@ -22,3 +22,18 @@
 //     assistant();
 //     return 0;
 // }
+
+
+
+//Forward Declaration
+// #include <iostream>
+// using namespace std;
+// void sayhello();
+// int main(){
+//     sayhello();
+//     return 0;
+// }
+
+// void sayhello(){
+//     cout << "Hello :)\n";
+// }
