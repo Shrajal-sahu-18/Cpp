@@ -103,3 +103,12 @@
 // int main(){
 //     cout << "Factorial : "<< factorial(5);
 // }
+
+// Global scope vaeriable
+// #include <iostream>
+// using namespace std;
+// int num =25;
+// int main(){
+//     cout << num;
+//     return 0;
+// }
