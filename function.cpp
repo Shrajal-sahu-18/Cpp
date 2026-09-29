@@ -72,20 +72,34 @@
 // }
 
 
-#include <iostream>
-using namespace std;
-bool iseven(int n){
-    if (n % 2 == 0){
-        return true;
-    }else{
-        return false;
-    }
+// #include <iostream>
+// using namespace std;
+// bool iseven(int n){
+//     if (n % 2 == 0){
+//         return true;
+//     }else{
+//         return false;
+//     }
 
     
-} 
-int main(){
-    cout << iseven(7)<<endl;
-    return 0;
-}
+// } 
+// int main(){
+//     cout << iseven(7)<<endl;
+//     return 0;
+// }
 
-//Question
+
+//Factorial
+// #include <iostream>
+// using namespace std;
+// int factorial(int n){
+//     int fact = 1;
+//     for(int i = 1; i<=n; i++){
+//         fact = fact * i;
+//     }
+//     return fact;
+// }
+
+// int main(){
+//     cout << "Factorial : "<< factorial(5);
+// }
