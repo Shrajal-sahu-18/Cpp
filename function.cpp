@@ -148,3 +148,5 @@
 //     cout <<isprime2(18);
 //     return 0;
 // }
+
+//Basic function
