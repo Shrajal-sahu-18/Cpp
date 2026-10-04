@@ -149,5 +149,3 @@
 //     return 0;
 // }
 
-//Basic function
-b
