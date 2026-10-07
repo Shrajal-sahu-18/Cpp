@@ -585,3 +585,18 @@ int main(){
 //     cout << a<<endl;
 //     return 0;
 // }
+
+
+//Passing by reference using pointer
+// #include <iostream>
+// using namespace std;
+// void changeA(int *ptr){ // Pinter Create Kiya
+//     *ptr = 20; // Derefrence Kiya
+//     cout << *ptr <<"\n";
+// }
+// int main(){
+//     int a = 10;
+//     changeA(&a); // A ka Memory Address pass kiya
+//     cout << a <<endl;
+//     return 0;
+// }
