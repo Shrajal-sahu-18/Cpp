@@ -544,4 +544,18 @@
 //     return 0;
 // }
 
-//Defrenece Pointer
+//Derefrenece Pointer
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     // int a = 10;
+//     // cout << &a << endl;
+//     // cout << *(&a) << "\n";
+//     int n = 10;
+//     int *ptr = &n;
+//     cout  << ptr<<endl;
+//     cout << *ptr<<endl;
+//     *ptr = 20;
+//     cout << n;
+//     return 0;
+// }
