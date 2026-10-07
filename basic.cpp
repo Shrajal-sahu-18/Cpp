@@ -639,3 +639,21 @@ int main(){
 //     changeA(n);
 //     cout << n;
 // }
+
+
+
+//Pointer Question
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int x = 10,y = 20;
+//     int *ptr1 = &x ,*ptr2 = &y;
+//     ptr2  = ptr1;
+
+//     cout << ptr2 << endl;
+//     cout << ptr1 << endl;
+//     cout << &x;
+
+
+//     return 0;
+// }
