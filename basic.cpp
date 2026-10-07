@@ -559,3 +559,14 @@
 //     cout << n;
 //     return 0;
 // }
+
+
+/*
+Null Pointer
+#include <iostream>
+using namespace std;
+int main(){
+    int *ptr = NULL;
+    cout << ptr;
+    return 0;
+}*/
