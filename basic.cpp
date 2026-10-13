@@ -674,3 +674,4 @@ int main(){
     cout << ptr;
     return 0;
 }
+//Pointer Question
